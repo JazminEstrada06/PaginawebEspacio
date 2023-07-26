@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(13, 0, 71);
+    font-family: 'Satisfy', cursive;
+    color:azure;
+}
+.inicio{
+    font-size: 30px;
+    font-family: cursive;
+    text-align: center;
+}
+.solar{
+    width: 700px;
+    border-radius: 20px;
+    image-orientation: center;
+}
+.title-astrobiologia{
+    font-size: 40px;
+    font-family: cursive;
+}
+.p-origen{
+    font-family: cursive;
+}
+.title-exploracion{
+    color: azure;
+    font-family: cursive;
+}
+.universo{
+    font-family: 'Rubik Gemstones', cursive;
+    color:#fdf180;
+    font-size: 100px;
+    text-align: center;
+}
+.uni{
+    font-family: 'Lugrasimo', cursive;;
+    color:#fdf180;
+    font-size: 30px;
+    text-align: center;
+}
+.tipos{
+    font-family: cursive;
+}
+.title-universo{
+    font-size: 40px;
+    font-family: cursive;
+}
+.origen{
+    font-family: cursive;
+}
+.title-estrellas{
+    font-size: 40px;
+    font-family: cursive;
+}
+.p-estrellas{
+    font-family: cursive;
+}
+.title-planeta{
+    font-size: 40px;
+    font-family: cursive;
+}
+.p-plant{
+    font-family: cursive;
+}
+.img{
+    image-orientation: center;
+}
